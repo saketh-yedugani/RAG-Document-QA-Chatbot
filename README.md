@@ -26,4 +26,9 @@ The app uses **FAISS vector search**, **OpenAI embeddings**, and **LLaMA 3.1 (vi
 5. Relevant chunks are retrieved  
 6. LLaMA 3.1 generates answers **only from retrieved context**
 
+👉 **Watch the demo:**  
+<p align="center">
+  <img src="RAG Document Q&A Chatbot.png" width="700"/>
+</p>
+
 
